@@ -1,0 +1,36 @@
+.slidev-layout {
+  &.cover {
+    h1 {
+      font-size: 2.75rem;
+    }
+  }
+
+  &.default {
+    --uno: py-12 color-trueGray-950;
+
+    h1 {
+      --uno: mb-8;
+
+      & + p {
+        --uno: opacity-100;
+      }
+    }
+
+    li {
+      --uno: mb-2;
+
+      &:last-child {
+        --uno: mb-0;
+      }
+    }
+
+    .footnotes {
+      --uno: text-2 mt-4;
+
+      p,
+      li {
+        --uno: my-0 line-height-normal;
+      }
+    }
+  }
+}
