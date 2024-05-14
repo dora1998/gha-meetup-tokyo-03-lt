@@ -28,7 +28,7 @@ fonts:
 
 <div class="flex flex-items-center gap-16 mt-20 px-6">
 
-<div class="text-center">
+<div>
 
 ![](https://github.com/dora1998.png){style="width: 200px;" .border-rd-full}
 
