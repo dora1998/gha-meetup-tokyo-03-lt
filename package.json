@@ -14,6 +14,7 @@
     "vue": "^3.4.27"
   },
   "devDependencies": {
+    "playwright-chromium": "^1.44.0",
     "prettier": "^3.2.5",
     "prettier-plugin-slidev": "^1.0.5"
   }

@@ -1,3 +1,8 @@
+html {
+  -webkit-print-color-adjust: exact;
+  -webkit-filter: opacity(1);
+}
+
 .slidev-layout {
   &.cover {
     h1 {
