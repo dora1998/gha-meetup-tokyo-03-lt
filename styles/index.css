@@ -16,12 +16,24 @@
       }
     }
 
+    ul ul {
+      --uno: mt-2;
+
+      li {
+        --uno: mb-2;
+      }
+    }
+
     li {
-      --uno: mb-2;
+      --uno: mb-4;
 
       &:last-child {
         --uno: mb-0;
       }
+    }
+
+    .footnotes-sep {
+      --uno: mt-8;
     }
 
     .footnotes {
