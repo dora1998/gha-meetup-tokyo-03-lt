@@ -54,7 +54,7 @@ fonts:
 
 # セルフホステッド ランナーとは
 
-- ユーザーが用意したマシンで GitHub Action の Job を実行することができる
+- ユーザーが用意したマシンで GitHub Actions の Job を実行することができる
   - つまり、GitHub が提供していない環境も使える
 
 <img src="/img/runners-page.png" class="w-2/3 absolute bottom-0 left-1/2 translate-x--1/2 translate-y-2/5 shadow-2xl rounded">
